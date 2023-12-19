@@ -1,7 +1,16 @@
+![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
 
-<h1 align="center">Hi 👋, I'm Travis</h1>
-<h3 align="center">A passionate full-stack developer from South Carolina</h3>
-<img align="right" alt="Happy Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+👋 Hi there! I'm a full-stack software developer with a vibrant background that uniquely shapes my approach to tech. My journey includes mastering a diverse tech stack, from React and Redux to Python and Docker, all while nurturing a special passion for front-end development.
+
+🚀 My coding adventure is complemented by six years in Los Angeles, where I honed my storytelling as a writer and production coordinator. This experience, combined with a two-year stint as a Realtor, has equipped me with exceptional skills in customer interaction and deadline management.
+
+✨ But there's more to me than code and client meetings. I'm a former professional paintball player (it's a real thing, I promise) who loves to get involved in community projects, like volunteering with Habitat for Humanity. My spare time often finds me enjoying a round of golf, hiking trails, or snowboarding slopes.
+
+🌏 I'm driven by the desire to build products that solve real-world problems and am always ready to tackle challenges with a determined problem-solving mindset.
+
+🔍 I am currently exploring new opportunities in software development, and I'm excited to bring my diverse skill set and interests to a team where I can contribute, grow, and make a meaningful impact.
+
+Let's connect and create something amazing together!
 
 - 👷‍♂️ I’m currently working on **TenWin / AWS Certifications**
 
