@@ -7,8 +7,6 @@
 
 - 📚 I’m currently learning **Java / Spring Boot**
 
-- 👯 I’m looking to collaborate on **anything! Let's build something!**
-
 - 💬 Ask me about **Web Development / Frontend Development**
 
 - 📫 How to reach me **travisdanielbrown@proton.me**
