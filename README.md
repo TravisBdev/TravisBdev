@@ -1,5 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
-
+ 
+ <p align='center'> <img src='https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif'></p>
+<hr>
 👋 Hi there! I'm a full-stack software developer with a vibrant background that uniquely shapes my approach to tech. My journey includes mastering a diverse tech stack, from React and Redux to Python and Docker, all while nurturing a special passion for front-end development.
 
 🚀 My coding adventure is complemented by six years in Los Angeles, where I honed my storytelling as a writer and production coordinator. This experience, combined with a two-year stint as a Realtor, has equipped me with exceptional skills in customer interaction and deadline management.
