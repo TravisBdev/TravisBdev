@@ -15,7 +15,7 @@ Let's connect and create something amazing together!
 
 - 👷‍♂️ I’m currently working on **TenWin / AWS Certifications**
 
-- 📚 I’m currently learning **Java / Spring Boot**
+- 📚 I’m currently learning **C# / .NET Core 8**
 
 - 💬 Ask me about **Web Development / Frontend Development**
 
