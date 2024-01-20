@@ -9,7 +9,7 @@
 
  I'm driven by the desire to build products that solve real-world problems and I am always ready to tackle challenges with a determined problem-solving mindset.
 
- I am currently exploring new opportunities in software development, and I'm excited to bring my diverse skill set and interests to a team where I can contribute, grow, and make a meaningful impact.
+ I am currently exploring new opportunities in software development, and I'm excited to bring my diverse skill set and interests to a team where I can grow and make a meaningful impact.
 
 Let's connect and create something amazing together!
 
@@ -17,9 +17,7 @@ Let's connect and create something amazing together!
 
 -  I’m currently learning **C# / .NET Core 8**
 
--  Ask me about **Web Development / Frontend Development**
-
--  How to reach me **travisdanielbrown@proton.me**
+-  How to reach me **travisbdev@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
