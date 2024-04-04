@@ -13,7 +13,7 @@
 
 Let's connect and create something amazing together!
 
--  I’m currently working on **TenWin / AWS Certifications**
+-  I’m currently working on **TeeMate**
 
 -  I’m currently learning **Java / Spring Boot**
 
