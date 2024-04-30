@@ -15,7 +15,7 @@ Let's connect and create something amazing together!
 
 -  I’m currently working on **TeeMate**
 
--  I’m currently learning **Java / Spring Boot**
+-  I’m currently learning **C# / ASP.NET**
 
 -  How to reach me **travisbdev@proton.me**
 
