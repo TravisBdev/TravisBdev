@@ -1,23 +1,19 @@
  
  <p align='center'> <img src='https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif'></p>
 <hr>
- Hi there! My name is Travis, I'm a full-stack software developer.
+ Hi there! My name is Travis; I'm a full-stack software developer.
 
- Prior to learning software development I spent six years in Los Angeles as a writer and production coordinator. This experience, combined with a two-year stint as a Realtor, has equipped me with exceptional skills in customer interaction and deadline management.
+ Prior to learning development, I spent six years in Los Angeles as a writer and production coordinator, after which I spent another two years in the real estate industry.  
 
- My spare time often finds me enjoying a round of golf, hiking trails, snowboarding slopes, or volunteering with Habitat for Humanity.
+ My spare time often finds me enjoying a round of golf, hiking trails, or attending a college football game.
 
- I'm driven by the desire to build products that solve real-world problems and I am always ready to tackle challenges with a determined problem-solving mindset.
+ I am currently exploring new opportunities in software development, and I'm excited to bring my skill set and interests to a team where I can grow and make a meaningful impact.
 
- I am currently exploring new opportunities in software development, and I'm excited to bring my diverse skill set and interests to a team where I can grow and make a meaningful impact.
+-  I’m currently working on a Google Play Store release: **TeeMate**
 
-Let's connect and create something amazing together!
+-  I’m currently learning: **Java / Spring**
 
--  I’m currently working on **TeeMate**
-
--  I’m currently learning **C# / .NET**
-
--  How to reach me **travisbdev@proton.me**
+-  How to reach me: **travisbdev@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
