@@ -1,7 +1,7 @@
  
  <p align='center'> <img src='https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif'></p>
 <hr>
- Hi there! My name is Travis; I'm a full-stack software developer.
+ Hi there! My name is Travis; I am honing my skills as a front-end developer.
 
  I am currently exploring new opportunities in software development, and I'm excited to bring my skill set and interests to a team where I can grow and make a meaningful impact.
 
