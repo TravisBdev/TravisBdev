@@ -3,17 +3,13 @@
 <hr>
  Hi there! My name is Travis; I'm a full-stack software developer.
 
- Prior to learning development, I spent six years in Los Angeles as a writer and production coordinator, after which I spent another two years in the real estate industry.  
-
- My spare time often finds me enjoying a round of golf, hiking trails, or attending a college football game.
-
  I am currently exploring new opportunities in software development, and I'm excited to bring my skill set and interests to a team where I can grow and make a meaningful impact.
 
--  I’m currently working on a Google Play Store release: **TeeMate**
+-  I’m currently working on a Google Play Store release: **Swing Wait**
 
--  I’m currently learning: **Java / Spring**
+-  I’m currently learning: **Java / Spring Boot**
 
--  How to reach me: **travisbdev@proton.me**
+-  How to reach me: **travisdanielbrown@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
