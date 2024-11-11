@@ -5,9 +5,9 @@
 
  I am currently exploring new opportunities in software development, and I'm excited to bring my skill set and interests to a team where I can grow and make a meaningful impact.
 
--  I’m currently working on a Google Play Store release: **Swing Wait**
+-  I’m currently working on a mobile app release: **Swing Wait**
 
--  I’m currently learning: **Java / Spring Boot**
+-  I’m currently learning: **.NET**
 
 -  How to reach me: **travisdanielbrown@gmail.com**
 
