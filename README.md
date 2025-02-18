@@ -5,7 +5,7 @@
 
  I am currently exploring new opportunities in software development, and I'm excited to bring my skill set and interests to a team where I can grow and make a meaningful impact.
 
--  I’m currently working on a mobile app release: **Swing Wait**
+-  I’m currently working on a web app: **Swing Wait**
 
 -  I’m currently learning: **.NET**
 
